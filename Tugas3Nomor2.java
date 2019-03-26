@@ -5,24 +5,7 @@ import java.util.Scanner;
 import common.DeretAngka;
 import common.PrintArray;
 
-/*
- * *Soal Study Case Logic 3
- * 									array2D: array[Baris][kolom]
- *  N=7   M=3   0=2						--------->
- *  	|	|	|	|	|	|17    | K  B A R I S
- *  ===========================    | O
- *  	|	|	|	|	|14	|9     | L
- *  ===========================    | O 
- *  	|	|	|	|11	|	|20    V M
- *  ===========================
- *  	|	|	|3	|	|	|23
- *  ===========================
- *  	|	|8	|	|	|	|26
- *  ===========================
- *  	|5	|	|	|	|	|27
- *  ===========================
- *  2	|41	|38	|81	|35	|32	|29
- *  */
+
 
 public class Tugas2Nomor2 {
 	static Scanner scn;
