@@ -9,11 +9,11 @@ public class Tugas3Batch191Array{
 		System.out.println("input O : "); int o=scn.nextInt();
 		
 		int[] deret=new int [n*3];
-		int angka = 0;
+		int angka = 0; int tiga=m;
 		for(int i=0;i<deret.lenght;i++){
 			if(i%4==3){
-				deret[i]=m;
-				m=m*3;
+				deret[i]=tiga;
+				tiga=tiga*3;
 			}else{
 				deret[i]=angka;
 				angka=angka+3;
